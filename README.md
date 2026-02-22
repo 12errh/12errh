@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am proffetional vibe coder who can able to build entrire pridction reday website, mobile apps cross platofm, pc software with customer choose tech stack or mine if thre prefer the ui desing by me is not generic and old there are super cool and interacting like user want
+I AM AN VIBE CODER THAT CAN BUILD ANYTHING WITH AI LIKE MOBILE APPS, FULL STACK WEBSITES, PC SOFTWARES AND MORE. I MASTER THE AI.I MAKE MULTIPEL PROJECT USING DIFFERNET FRAMWORKS AND LANGUAGES. SUCH AS FLUTTER,EXPO,NEXT,REACT,RUST. THIS IS ALL ABOUT ME.
 
 
 # 💻 Tech Stack:
