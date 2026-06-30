@@ -1,0 +1,26 @@
+<svg width="700" height="120" viewBox="0 0 700 120" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .name { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; font-size: 42px; font-weight: 700; fill: #2e2e2e; }
+    .role { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; font-size: 14px; fill: #8a8a8a; letter-spacing: 3px; }
+    .underline { stroke: #2e2e2e; stroke-width: 2; }
+    .cursor { fill: #2e2e2e; }
+    @media (prefers-color-scheme: dark) {
+      .name { fill: #eaeaea; }
+      .role { fill: #9a9a9a; }
+      .underline { stroke: #eaeaea; }
+      .cursor { fill: #eaeaea; }
+    }
+  </style>
+
+  <text x="2" y="52" class="name">REHAN</text>
+
+  <rect x="218" y="18" width="12" height="36" class="cursor">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="3" y="78" class="role">AGENTIC ENGINEER</text>
+
+  <line x1="2" y1="95" x2="240" y2="95" class="underline" stroke-dasharray="238" stroke-dashoffset="238">
+    <animate attributeName="stroke-dashoffset" from="238" to="0" dur="1s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </line>
+</svg>
