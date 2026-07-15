@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3200&pause=1600&color=8A8A8A&center=true&vCenter=true&width=480&lines=I+don't+follow+a+stack.+I+find+a+way." alt="tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3200&pause=1600&color=8A8A8A&center=true&vCenter=true&width=480&lines=I+don't+follow+a+stack.+I+find+my+way." alt="tagline" />
 
 </div>
 
