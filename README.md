@@ -10,13 +10,19 @@
 
 <br>
 
-### <img src="https://api.iconify.design/lucide:terminal.svg?color=%236e6e6e&height=16" valign="middle"/> &nbsp;about
+<h3>
+  <img src="https://api.iconify.design/lucide/terminal.svg?color=%236e6e6e" width="16" height="16" alt="terminal" />
+  &nbsp;about
+</h3>
 
 **Rehan** · Agentic Engineer
 
 I own the logic, architecture, and engineering decisions. AI takes care of the code — freeing me to focus on solving problems and building software across any stack.
 
-### <img src="https://api.iconify.design/lucide:layers.svg?color=%236e6e6e&height=16" valign="middle"/> &nbsp;approach
+<h3>
+  <img src="https://api.iconify.design/lucide/layers.svg?color=%236e6e6e" width="16" height="16" alt="layers" />
+  &nbsp;approach
+</h3>
 
 `Think` → `Design` → `Build` → `Refine`
 
@@ -26,7 +32,11 @@ The stack is a tool, not an identity. The problem defines the approach.
 
 <div align="center">
 
-<a href="https://github.com/12errh"><img src="https://api.iconify.design/lucide:github.svg?color=%236e6e6e&height=16" valign="middle"/> &nbsp;12errh</a>
+<a href="https://github.com/12errh">
+  <img src="https://api.iconify.design/lucide/github.svg?color=%236e6e6e"
+       width="16" height="16" valign="middle" alt="GitHub" />
+  &nbsp;12errh
+</a>
 
 <br><br>
 
